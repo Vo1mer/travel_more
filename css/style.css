@@ -195,7 +195,9 @@ input[type="submit"] {
 }
 .sectionChooseUs__top{
 	background: url("../images/chooseUs-bg.jpg") center center no-repeat;
+	background-size: cover;
 	height: 685px;
+
 }
 .sectionChooseUs__bottom{
 	background-color: #333333;
@@ -313,6 +315,7 @@ input[type="submit"] {
 .sectionCountryFirst{
 	 height: 700px;
 	 background: url("../images/countryItem1.jpg") center center no-repeat;
+	background-size: cover;
 	 position: relative;
  }
 
@@ -375,6 +378,7 @@ input[type="submit"] {
 .sectionCountrySecond{
 	height: 700px;
 	background: url("../images/countryItem2.jpg") center center no-repeat;
+	background-size: cover;
 	position: relative;
 }
 
@@ -417,6 +421,7 @@ input[type="submit"] {
 }
 .sectionTouristSay{
 	background: url("../images/touristSay-bg.jpg") center center no-repeat;
+	background-size: cover;
 	height: 731px;
 	position: relative;
 }
